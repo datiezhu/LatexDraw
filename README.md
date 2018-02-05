@@ -3,7 +3,7 @@ A small tool I made to stitch together images and compile them into a pdf. I use
 
 
 ## How to use it
- - Choose a folder or enter a path
+ - Browse a folder or enter a path
  - Enter a filename
  - Enter a title for the document
  
